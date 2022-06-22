@@ -1,6 +1,6 @@
 {
-  "name": "react-calendar-timeline",
-  "version": "0.28.0",
+  "name": "@cobuildlab/react-calendar-timeline",
+  "version": "1.0.0",
   "description": "react calendar timeline",
   "main": "lib/index.js",
   "scripts": {
@@ -18,10 +18,10 @@
     "lib",
     "src"
   ],
-  "homepage": "https://github.com/namespace-ee/react-calendar-timeline",
+  "homepage": "https://github.com/cobuildlab/react-calendar-timeline",
   "repository": {
     "type": "git",
-    "url": "https://github.com/namespace-ee/react-calendar-timeline.git"
+    "url": "https://github.com/cobuildlab/react-calendar-timeline.git"
   },
   "author": "Marius Andra <marius.andra@gmail.com>",
   "contributors": [
