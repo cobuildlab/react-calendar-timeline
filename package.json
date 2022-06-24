@@ -99,6 +99,7 @@
     "memoize-one": "^5.1.1",
     "node-pre-gyp": "^0.17.0"
   },
+  "types": "types/index.d.ts",
   "peerDependencies": {
     "interactjs": "^1.3.4",
     "moment": "*",
